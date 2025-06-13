@@ -1,6 +1,6 @@
 # Monica Lama's Personal Website
 
-A modern, responsive personal website built with React and Vite, featuring a clean design and interactive elements.
+A responsive personal website built with React and Vite, featuring a clean design and interactive elements.
 
 ## Features
 
@@ -92,6 +92,6 @@ This project is open source and available under the MIT License.
 ## Contact
 
 Monica Lama
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: www.linkedin.com/in/monica-lama-gonzalez-teja-782097260
+- Email: mlama@seas.upenn.edu
+- GitHub: github.com/monicalamagt
